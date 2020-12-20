@@ -1,9 +1,8 @@
 # Malaria Detection based on Deep Learning network based on Blood Smear images
+This repo showcases the deployment of a trained and validated deep learning model based on 
+CNN.
 
-
-
-## About
-
+The model is developed using Colab and deployed using Tensorflow.js and Node.js
 
 ## Setup 
 
@@ -18,5 +17,5 @@ $ node server.js
 ```
 
 
-## Inspired from the following work:
+### Inspired from the following work:
 [https://tfjs-imageclassification.azureedge.net](https://tfjs-imageclassification.azureedge.net).
